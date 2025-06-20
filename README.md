@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # Hello! 👋 I'm Sejal
 - 👋 Hi, I’m @sejals23
 - 🧑‍💻 I’m currently working as an intern at Labmentix
