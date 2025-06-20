@@ -6,6 +6,9 @@
 - 🏫 Currently I’m also pursuing BTech at [IET](https://www.ietdavv.edu.in/) 
 - 🤗 Pronouns: she/her  
 
+## My GSSoC'24 ext Badges
+
+
 
 
 
