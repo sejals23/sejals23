@@ -7,6 +7,8 @@
 - 🤗 Pronouns: she/her  
 
 ## My GSSoC'24 ext Badges
+<img src="https://github.com/sejals23/sejals23/blob/main/badge1.png" width="80"/><img src="https://github.com/sejals23/sejals23/blob/main/badge2.png" width="80"/>
+
 
 
 
